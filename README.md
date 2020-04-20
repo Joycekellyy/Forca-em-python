@@ -1,3 +1,3 @@
-# Games
+# Forca
 Um jogo de forca em Português em Python...
 By: Joyce Kelly
